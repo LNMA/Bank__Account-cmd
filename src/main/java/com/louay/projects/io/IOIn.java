@@ -1,7 +1,7 @@
 package com.louay.projects.io;
 
 import com.louay.projects.entry.Account;
-import com.louay.projects.entry.Transaction;
+import com.louay.projects.controller.Transaction;
 
 import java.io.*;
 

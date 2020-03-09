@@ -3,7 +3,7 @@ package com.louay.projects.view;
 
 import com.louay.projects.entry.CheckingAccount;
 import com.louay.projects.entry.SavingAccount;
-import com.louay.projects.entry.Transaction;
+import com.louay.projects.controller.Transaction;
 import com.louay.projects.io.IOIn;
 import com.louay.projects.io.IOOut;
 
